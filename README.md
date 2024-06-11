@@ -8,7 +8,7 @@
 <th><a href="https://chat.openai.com/">好友</a></th>
 </tr>
 <tr>
-<td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
+<td><a href="[https://hm.chu.edu.tw/index.php?Lang=zh-tw](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City)">Viet Nam</a></td>
 <td><a href="[https://www.youtube.com/watch?v=dK9rBfbUETw](https://github.com/yckoincgu/C_Programming)">看我</a></td>
 <td><a href="">巨量資料處理</a></td>
 <td>黄韵恩</td>
@@ -20,7 +20,7 @@
 <td>彭宜绢</td>
 </tr>
 <tr>
-<td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
+<td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
 <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
 <td><a href="">其他</a></td>
 <td>赵妤欣</td>
