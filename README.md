@@ -10,7 +10,7 @@
 <tr>
 <td><a href="[https://hm.chu.edu.tw/index.php?Lang=zh-tw](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City)">Viet Nam</a></td>
 <td><a href="[https://www.youtube.com/watch?v=dK9rBfbUETw](https://github.com/yckoincgu/C_Programming)">看我</a></td>
-<td><a href="">巨量資料處理</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Ho_Chi_Minh_City">Viet Nam</a></td>
 <td>黄韵恩</td>
 </tr>
 <tr>
