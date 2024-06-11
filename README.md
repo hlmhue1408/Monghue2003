@@ -16,7 +16,7 @@
 <tr>
 <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
 <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
-<td><a href="">資料視覺化</a></td>
+<td><a href="https://github.com/yckoincgu/DataVisualization">資料視覺化</a></td>
 <td>彭宜绢</td>
 </tr>
 <tr>
