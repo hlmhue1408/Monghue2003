@@ -1,5 +1,5 @@
 # 112教育部智慧創新計畫
-<a href="http://140.126.146.12:9090/GitHub2023/">112教育部智慧創新之GitHub學習平台</a>&nbsp;<a href="https://chat.openai.com/auth/login">技術諮詢</a>
+<a href="http://140.126.146.12:9090/GitHub2023/">112教育部智慧創新之GitHub學習平台</a>&nbsp;<a href="https://chat.openai.com/auth/login">學習履歷</a>
 <table>
 <tr>
 <th>系級</th>
